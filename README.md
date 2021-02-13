@@ -1,27 +1,8 @@
-# Hi, my name is Rodrigo Dominguez 👋
+# Hola, mi nombre es Brian Romano 👋
 
-## Resume
-I'm a Android Developer with more than six years of experience.</br>
-In 2014 I created my first screen with a button that showed a Toast 😛.</br>
-In 2015 I started my first work as Android Developer 🎮.</br>
-In 2016 I crashed App in production from a big [Bank](https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia) from Argentina (several times) 🤣.</br>
-In 2017 I founded [CerveChat](https://play.google.com/store/apps/details?id=com.rodrigodominguez.cervezapp), a social network for beer fan 🍻.</br>
-In 2018 I generated impact on millions and millions of people with a travel [App](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
-In 2019 I am part of the fintech war in LATAM [(currently here)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
-In 2020 I merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) in Google (in ConstraintLayout library) 😍. Google contacted me to work with them, but "pasaron cosas" (if you would like to know what happened I will tell you privately) 😭😭😭😭.</br>
-In 2021 I would like to have more than 1000 suscriptors in my Youtube [channel](https://youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA) 🥰.</br>
+## Estudiante de Análisis de Sistemas</br>
 
-## Present
-- 🔭 I’m currently working as Sr Android Engineer @ [MercadoLibre](https://www.mercadolibre.com.ar)
-- 🌱 I’m currently learning to detect metals ⛏
-- 💬 Ask me about sleep many hours, Jurassic Park, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
-- ⚽️ River Plate 🇦🇷
-- 🏀 San Antonio Spurs 🇺🇲
-- 🎾 Roger Federer 🇨🇭
-- 🏆 9/12/2018 🏟️ 🇪🇸
-
-
-## Skills:
+### Habilidades y herramientas:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -39,19 +20,9 @@ In 2021 I would like to have more than 1000 suscriptors in my Youtube [channel](
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()
 
-## Find me at:
-[![Medium](https://img.shields.io/badge/Medium-@rodrigomartind-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://rodrigomartind.medium.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-@rodrigomartind-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RodrigoMartinD)
-[![Instagram](https://img.shields.io/badge/Instagram-@rodrigomartind-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rodrigomartind)
+## LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Romano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brianromanook/)
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-@rodrigo.martin.dom-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Rodrigo.Martin.Dom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Dominguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-martin-dominguez-463b5a33/)
-</br>
-[![YouTube](https://img.shields.io/badge/YouTube-Hermanos_Binarios-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA)
 
-
-
-
-
-## Contact me:
-[![Email](https://img.shields.io/badge/rodrigomartind@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigomartind@gmail.com)
+## Contacto:
+[![Email](https://img.shields.io/badge/brianromanook@gmail.com-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brianromanook@gmail.com)
