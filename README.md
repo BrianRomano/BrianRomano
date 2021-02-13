@@ -1,6 +1,57 @@
-<h1 align="center">Hola 👋,mi nombre es Brian Romano</h1>
-<h3 align="center">Estudiante de Análisis de Sistemas</h3>
+# Hi, my name is Rodrigo Dominguez 👋
+
+## Resume
+I'm a Android Developer with more than six years of experience.</br>
+In 2014 I created my first screen with a button that showed a Toast 😛.</br>
+In 2015 I started my first work as Android Developer 🎮.</br>
+In 2016 I crashed App in production from a big [Bank](https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia) from Argentina (several times) 🤣.</br>
+In 2017 I founded [CerveChat](https://play.google.com/store/apps/details?id=com.rodrigodominguez.cervezapp), a social network for beer fan 🍻.</br>
+In 2018 I generated impact on millions and millions of people with a travel [App](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
+In 2019 I am part of the fintech war in LATAM [(currently here)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
+In 2020 I merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) in Google (in ConstraintLayout library) 😍. Google contacted me to work with them, but "pasaron cosas" (if you would like to know what happened I will tell you privately) 😭😭😭😭.</br>
+In 2021 I would like to have more than 1000 suscriptors in my Youtube [channel](https://youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA) 🥰.</br>
+
+## Present
+- 🔭 I’m currently working as Sr Android Engineer @ [MercadoLibre](https://www.mercadolibre.com.ar)
+- 🌱 I’m currently learning to detect metals ⛏
+- 💬 Ask me about sleep many hours, Jurassic Park, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
+- ⚽️ River Plate 🇦🇷
+- 🏀 San Antonio Spurs 🇺🇲
+- 🎾 Roger Federer 🇨🇭
+- 🏆 9/12/2018 🏟️ 🇪🇸
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Skills:
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google%20play&logoColor=white&labelColor=101010)]()
+[![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google%20maps&logoColor=white&labelColor=101010)]()
+[![U+2665 Google](https://img.shields.io/badge/❤️_Google-EC1C24?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
+</br>
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white&labelColor=101010)]()
+[![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?style=for-the-badge&logo=bugsnag&logoColor=white&labelColor=101010)]()
+</br>
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()
+
+## Find me at:
+[![Medium](https://img.shields.io/badge/Medium-@rodrigomartind-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://rodrigomartind.medium.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-@rodrigomartind-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RodrigoMartinD)
+[![Instagram](https://img.shields.io/badge/Instagram-@rodrigomartind-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rodrigomartind)
+</br>
+[![Facebook](https://img.shields.io/badge/Facebook-@rodrigo.martin.dom-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Rodrigo.Martin.Dom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Dominguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-martin-dominguez-463b5a33/)
+</br>
+[![YouTube](https://img.shields.io/badge/YouTube-Hermanos_Binarios-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA)
+
+
+
+
+
+## Contact me:
+[![Email](https://img.shields.io/badge/rodrigomartind@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigomartind@gmail.com)
