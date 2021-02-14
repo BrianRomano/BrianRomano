@@ -1,6 +1,6 @@
 # Hola, mi nombre es Brian Romano 👋
 
-## Estudiante de Análisis de Sistemas</br>
+## Estudiante de Análisis de Sistemas 📕</br>
 
 ### Habilidades:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -29,7 +29,11 @@
 ### Herramientas:
 [![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 </br>
+[![Intellij Idea](https://img.shields.io/badge/Intellij_Idea-fe315d?style=for-the-badge&logo=intellij%20idea&logoColor=white&labelColor=101010)]()
+</br>
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()
+</br>
+[![Postman](https://img.shields.io/badge/Postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 
 ### LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian_Romano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brianromanook/)
