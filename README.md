@@ -26,6 +26,7 @@
 [![Angular](https://img.shields.io/badge/Angular-e52a3a?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 </br>
+</br>
 [![Php](https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/laravel-f72c1f?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![Symfony](https://img.shields.io/badge/symfony-ffffff?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
