@@ -3,7 +3,7 @@
 ## Estudiante de Análisis de Sistemas 📕</br>
 
 ### Mi Curriculum:
-[![Google Drive](https://img.shields.io/badge/Brian_Romano_CV-f34f29?style=for-the-badge&logo=google%20drive&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1YapCb_teRYLF3uTdHmAQq93Nqf1qdOGH/view?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Brian_Romano_CV-f34f29?style=for-the-badge&logo=google%20drive&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1Aoq2cj2gO-QCc-VU6nV6o0rtNEtqzAfQ/view?usp=sharing)
 
 ### Habilidades:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
