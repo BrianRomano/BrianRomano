@@ -8,7 +8,6 @@
 ### Habilidades:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Php](https://img.shields.io/badge/Php-787cb4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-ffd344?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 </br>
 [![Html](https://img.shields.io/badge/Html-e44d26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
