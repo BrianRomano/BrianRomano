@@ -12,6 +12,4 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005c86?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-F56932?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
 </p>
