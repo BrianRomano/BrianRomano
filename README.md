@@ -1,5 +1,5 @@
 <h1 align="center"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="center"> Soy Brian Romano, 23 años y estudiante de Analisis de Sistemas en <a href="https://davinci.edu.ar/carreras/analista-de-sistemas">Escuela Da Vinci</a></p>
+<h2 align="center"> Soy Brian Romano, 23 años y estudiante de Analisis de Sistemas en <a href="https://davinci.edu.ar/carreras/analista-de-sistemas">Escuela Da Vinci</a></h2>
 <p align="center">Buenos Aires, Argentina 🇦🇷</p>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
