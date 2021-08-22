@@ -1,4 +1,4 @@
-<h2 align="center"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h1 align="center"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3 align="center"> Soy Brian Romano, 23 años y estudiante de Análisis de Sistemas en <a href="https://davinci.edu.ar/carreras/analista-de-sistemas">Escuela Da Vinci</a></h3>
 <h4 align="center">Buenos Aires - Argentina 🇦🇷</h4>
 <p align="center">
