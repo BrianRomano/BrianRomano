@@ -1,3 +1,6 @@
+<h2 align="center"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h3 align="center"> Soy Brian Romano, 23 años y estudiante de Análisis de Sistemas en <a href="https://davinci.edu.ar/carreras/analista-de-sistemas">Escuela Da Vinci</a></h3>
+<h4 align="center">Ciudad de Buenos Aires - Argentina 🇦🇷</h4>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a62b1?style=flat-square&logo=css3&logoColor=white" />
@@ -12,6 +15,3 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-F56932?style=flat-square&logo=postman&logoColor=white" />
 </p>
-<h2 align="center"> Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
-<h3 align="center"> Soy Brian Romano, 23 años y estudiante de Análisis de Sistemas en <a href="https://davinci.edu.ar/carreras/analista-de-sistemas">Escuela Da Vinci</a></h3>
-<h4 align="center">Ciudad de Buenos Aires - Argentina 🇦🇷</h4>
