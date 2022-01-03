@@ -7,7 +7,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd837?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-7377ad?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ed2025?style=flat-square&logo=java&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/-Php-7377ad?style=flat-square&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005c86?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
