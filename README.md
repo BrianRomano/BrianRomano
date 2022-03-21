@@ -10,5 +10,4 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-0d8ac8?style=flat-square&logo=java&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/-Php-7377ad?style=flat-square&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-005c86?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
